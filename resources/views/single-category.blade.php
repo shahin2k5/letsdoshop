@@ -1,4 +1,4 @@
-@extends('admin.admin-layout')
+@extends('layouts.public')
 
 @section('content')
 	<!-- HEADER -->
